@@ -4,6 +4,7 @@
 This document was generated with AI assistance (ChatGPT, February 2025) - as a human and machine interaction.
 
 - [Cross-Country Skiing Destinations in Poland, Slovakia, and the Czech Republic (2024/2025)](#cross-country-skiing-destinations-in-poland-slovakia-and-the-czech-republic-20242025)
+  - [Introduction](#introduction)
   - [Poland](#poland)
     - [The Tatra Mountains](#the-tatra-mountains)
     - [The Karkonosze Mountains](#the-karkonosze-mountains)
@@ -17,7 +18,7 @@ This document was generated with AI assistance (ChatGPT, February 2025) - as a h
     - [Sumava National Park](#sumava-national-park)
   - [Conclusion](#conclusion)
 
-u## Introduction
+## Introduction
 Cross-country skiing is a very popular activity nowadays, especially in the eastern europen countries. Eastern Europe offers a diverse array of cross-country skiing destinations for both beginners and seasoned enthusiasts. This part of Europe presents also a more affordable alternative without compromising on quality. Resorts such as Spindleruv Mlyn in the Czech Republic or Jakuszyce in Szklarska Poreba, in Poland are renowned for their well-maintained trails and modern amenities. The 2024/2025 winter season offers a plethora of cross-country skiing opportunities across Poland, Slovakia, and the Czech Republic. This guide highlights premier destinations and notable events to enhance skiing experience.
 <!--- table with some statistics --> 
 
