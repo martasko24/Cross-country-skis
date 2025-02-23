@@ -38,7 +38,7 @@ This document was generated with AI assistance (ChatGPT, February 2025) - as a h
 
 ## Introduction
 Cross-country skiing is a very popular activity nowadays, especially in the eastern europen countries. Eastern Europe offers a diverse array of cross-country skiing destinations for both beginners and seasoned enthusiasts. This part of Europe presents also a more affordable alternative without compromising on quality. Resorts such as Spindleruv Mlyn in the Czech Republic or Jakuszyce in Szklarska Poreba, in Poland are renowned for their well-maintained trails and modern amenities. The 2024/2025 winter season offers a plethora of cross-country skiing opportunities across Poland, Slovakia, and the Czech Republic. This guide highlights premier destinations and notable events to enhance skiing experience.
-(table with some statistics)
+<!--- table with some statistics --> 
 
 ## Poland
 
@@ -46,12 +46,12 @@ Cross-country skiing is a very popular activity nowadays, especially in the east
 The Tatra Mountains, often referred to as the "Winter Capital of Poland," provide exceptional cross-country skiing experiences. Whether you're seeking challenging routes or leisurely trails, the Tatra Mountains cater to a wide range of cross-country skiing preferences, all amidst breathtaking natural beauty. Among many places two are worth recommending. 
 
 - **Zakopane**
- (add picture)
+ <!--- add picture --> 
  Known for its picturesque trails in Kościeliska and Chochołowska Valleys, Zakopane caters to various skill levels. It is called the "Winter Capital of Poland" and offers beautiful cross-country ski runs, including a 5-kilometer trail for intermediate skiers and a 2-kilometer trail for beginners. These routes are situated on the edge of the village, near the Tatra National Park, and provide picturesque views of Mount Giewont.
  http://discoverzakopane.com
 
 - **Bialka Tatrzanska**
-  (add picture)
+  <!--- add picture --> 
  This resort offers approximately 14 km of trails, suitable for both beginners and intermediate skiers. The area boasts well-maintained trails that wind through snow-covered pine forests and open meadows, catering to both classic and skating techniques. The reliable snow conditions from December through March, combined with the area's traditional Goral culture and mountain architecture, create an authentic Polish winter sports experience. 
 
 ### The Karkonosze Mountains
